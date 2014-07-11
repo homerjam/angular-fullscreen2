@@ -1,0 +1,14 @@
+{
+  "name": "angular-fullscreen2",
+  "version": "0.0.1",
+  "description": "Angular module providing a service which wraps the fullscreen API, and a directive which adds/removes a class on change",
+  "main": "angular-fullscreen2.js",
+  "ignore": [
+  	"*",
+  	"!angular-fullscreen2.js",
+  	"!README.md"
+  ],
+  "dependencies": {
+    "angular": "~1.2.18"
+  }
+}
